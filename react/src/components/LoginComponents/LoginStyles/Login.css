@@ -1,0 +1,21 @@
+.main-login {
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-login {
+  width: 100%;
+  margin-top: 20px;
+  padding-bottom: 10px;
+}
+.loginbutton {
+  padding-bottom: 5px;
+  padding-top: 30px;
+}
+
+.errorMsg {
+  color: red;
+  font-size: 14px;
+}

@@ -1,0 +1,14 @@
+.main-home {
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home-button {
+  padding-bottom: 10px;
+}
+
+.form-login {
+  padding-bottom: 10px;
+}
